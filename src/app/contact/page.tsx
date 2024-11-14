@@ -4,7 +4,7 @@ export default function Contact(){
         <div className="contact" id="contact">
         <h2 className="heading">Contact <span>Me</span></h2>
 
-        <form action="#">
+        {/* <form action="#">
             <div className="input-box">
                 <input type="text" placeholder="Full Name"/>
                 <input type="email" placeholder="Email Address"/>
@@ -15,7 +15,7 @@ export default function Contact(){
             </div>
             <textarea name="" id="" placeholder="Your Message"></textarea>
             <input type="submit" value="Send Message" className="btn"/>
-        </form>
+        </form> */}
     </div>
 
     )
