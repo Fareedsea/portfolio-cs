@@ -1,7 +1,7 @@
 
 import React from 'react'
 import Image from 'next/image'
-const About = () => {
+export default function About() {
   return (
     <div className="about" id="about">
         <div className="about-img">
@@ -17,5 +17,3 @@ const About = () => {
 </div>
   )
 }
-
-export default About
