@@ -13,7 +13,7 @@ export default function Contact(){
                 <input type="number" placeholder="Mobile Number"/>
                 <input type="text" placeholder="Email Subject"/>
             </div>
-            <textarea name="" id="" cols="30" rows="10" placeholder="Your Message"></textarea>
+            <textarea name="" id="" placeholder="Your Message"></textarea>
             <input type="submit" value="Send Message" className="btn"/>
         </form>
     </div>
